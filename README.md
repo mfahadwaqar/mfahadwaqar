@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h3>Hello, I'm [Your Name]! 👋</h3>
+      <h3>Hello, I'm Fahad! 👋</h3>
       <ul>
         <li>💻 <strong>I’m currently working on:</strong> Building scalable data pipelines, analytical dashboards, and AI-driven solutions for transforming data into actionable insights.</li>
         <li>🤝 <strong>I’m looking to collaborate on:</strong> Data engineering, machine learning, automation projects, and open-source tools focused on analytics and workflow optimization.</li>
