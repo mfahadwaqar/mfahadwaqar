@@ -1,16 +1,61 @@
-## Hi there 👋
+# About Me
 
-<!--
-**mfahadwaqar/mfahadwaqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m currently working on:**  
+Building scalable data pipelines, analytical dashboards, and AI-driven solutions for transforming data into actionable insights.
 
-Here are some ideas to get you started:
+**I’m looking to collaborate on:**  
+Data engineering, machine learning, automation projects, and open-source tools focused on analytics and workflow optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I’m looking for help with:**  
+Large-scale ETL optimization, cloud-based data workflows, and production-level MLOps practices.
+
+**I’m currently learning:**  
+Advanced deep learning, distributed systems, MLOps, and cloud-native data infrastructure.
+
+**Ask me about:**  
+Python, SQL, data engineering, machine learning, ETL workflows, dashboarding, and automation.
+
+**Fun fact:**  
+I enjoy turning messy datasets into meaningful systems and often automate tasks just to avoid doing them twice.
+
+---
+
+## Socials
+[LinkedIn](https://linkedin.com/in/mfahadwaqar) • [Email](mailto:mfahadwaqar@gmail.com)
+
+---
+
+# Tech Stack
+
+### Languages & Scripting  
+C, C++, Python, SQL, Bash Script, HTML5, Markdown, LaTeX
+
+### Data Engineering & Databases  
+MySQL, PostgreSQL, Docker, Jenkins, GitHub Actions, AWS
+
+### Machine Learning & AI  
+TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, NumPy, Pandas, MLflow
+
+### Data Visualization  
+Matplotlib, Plotly, Power BI
+
+### Computer Vision  
+OpenCV
+
+### Automation & Testing  
+Playwright
+
+### Tools & Platforms  
+Git, GitHub, Docker, Windows Terminal, Linux/Unix, Jupyter Notebook
+
+### Design Tools  
+Adobe Illustrator, Adobe Photoshop
+
+---
+
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mfahadwaqar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=mfahadwaqar&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadwaqar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
