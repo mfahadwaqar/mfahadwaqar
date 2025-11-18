@@ -39,8 +39,8 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg](https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg)" alt="Photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg](https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg)" alt="Illustrator" width="40" height="40"/></a>
 </p>
 
 ### Contact Details
