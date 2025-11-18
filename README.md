@@ -39,8 +39,8 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg](https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg)" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg](https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg)" alt="Illustrator" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/mfahadwaqar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mfahadwaqar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ### Contact Details
