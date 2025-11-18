@@ -51,11 +51,3 @@ Git, GitHub, Docker, Windows Terminal, Linux/Unix, Jupyter Notebook
 ### Design Tools  
 Adobe Illustrator, Adobe Photoshop
 
----
-
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mfahadwaqar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=mfahadwaqar&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadwaqar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
