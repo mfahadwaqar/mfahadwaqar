@@ -25,7 +25,6 @@ I build systems at the intersection of **knowledge graphs**, **LLMs**, and **rea
 
 ### 🎓 Graduate Projects (AIT)
 
-- **🚗 AV Simulation with LLM Decision Agent:** End-to-end autonomous driving simulation combining Highway-Env/CARLA, YOLOv8 object detection, Neo4j scene graphs, RAG-based LLM decision agent, and a Streamlit dashboard.
 - **🔍 Claim Contradiction Detection over Knowledge Graphs:** NLP pipeline using Neo4j, DeBERTa (fine-tuned NLI), and GraphRAG to detect contradictions in structured knowledge.
 - **⚠️ Real-Time Log Anomaly Detection (MLOps):** AWS-native pipeline with Kinesis, Lambda, S3, Isolation Forest, LOF, CloudWatch, Prometheus/Grafana, and Streamlit.
 - **🤖 DPO Fine-tuning:** Qwen2.5-1.5B fine-tuned with QLoRA using Groq as an LLM judge on Kaggle.
@@ -37,9 +36,7 @@ I build systems at the intersection of **knowledge graphs**, **LLMs**, and **rea
 
 ### 🚀 Side Projects
 
-- **📡 Podcast Clip Generator:** Automated pipeline on Kaggle using yt-dlp, Whisper, Groq/Llama, YOLOv8 speaker detection, and ffmpeg.
-- **🔗 B2B Lead Gen Pipeline:** Apify + Hunter.io + Claude API + n8n + Gmail targeting Bangkok businesses.
-- **🕷️ DS/AI Freelance Lead Scraper:** Reddit scraper surfacing Data Science and AI freelance opportunities.
+
 
 ---
 
