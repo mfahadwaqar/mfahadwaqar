@@ -1,77 +1,49 @@
-<table>
-  <tr>
-    <td>
-      <h3>Hello, I'm Fahad! 👋</h3>
-      <ul>
-        <li>💻 <strong>I’m currently working on:</strong> Building scalable data pipelines, analytical dashboards, and AI-driven solutions for transforming data into actionable insights.</li>
-        <li>🤝 <strong>I’m looking to collaborate on:</strong> Data engineering, machine learning, automation projects, and open-source tools focused on analytics and workflow optimization.</li>
-        <li>👀 <strong>I’m looking for help with:</strong> Large-scale ETL optimization, cloud-based data workflows, and production-level MLOps practices.</li>
-        <li>🌱 <strong>I’m currently learning:</strong> Advanced deep learning, distributed systems, MLOps, and cloud-native data infrastructure.</li>
-        <li>💬 <strong>Ask me about:</strong> Python, SQL, data engineering, machine learning, ETL workflows, dashboarding, and automation.</li>
-        <li>😄 <strong>Fun fact:</strong> I enjoy turning messy datasets into meaningful systems and often automate tasks just to avoid doing them twice.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      </td>
-  </tr>
-</table>
+# Hi there! 👋
 
-### Languages & Tools I Use
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="httpsTo aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="httpsAm adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="Illustrator" width="40" height="40"/></a>
-</p>
+### 🎓 MS Data Science & AI @ AIT Bangkok | Data Engineer | AI Builder
 
-### Contact Details
-<p>
-  <a href="https://linkedin.com/in/mfahadwaqar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mfahadwaqar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+I build systems at the intersection of **knowledge graphs**, **LLMs**, and **real-world data pipelines**. Previously Data Engineer @ SkyElectric and Data Analyst (AI) @ Motive. Currently interning at **NECTEC** on GraphRAG and Neo4j pipelines.
 
-<details>
-  <summary>View Detailed Tech Stack</summary>
-  
-  ### Languages & Scripting  
-  C, C++, Python, SQL, Bash Script, HTML5, Markdown, LaTeX
+---
 
-  ### Data Engineering & Databases  
-  MySQL, PostgreSQL, Docker, Jenkins, GitHub Actions, AWS
+## 🛠️ Skills
 
-  ### Machine Learning & AI  
-  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, NumPy, Pandas, MLflow
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) |
+| **LLM & RAG** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Databases** | ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Eng** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
 
-  ### Data Visualization  
-  Matplotlib, Plotly, Power BI
+---
 
-  ### Computer Vision  
-  OpenCV
+## 💼 Project Portfolio
 
-  ### Automation & Testing  
-  Playwright
+### 🎓 Graduate Projects (AIT)
 
-  ### Tools & Platforms  
-  Git, GitHub, Docker, Windows Terminal, Linux/Unix, Jupyter Notebook
+- **🚗 AV Simulation with LLM Decision Agent:** End-to-end autonomous driving simulation combining Highway-Env/CARLA, YOLOv8 object detection, Neo4j scene graphs, RAG-based LLM decision agent, and a Streamlit dashboard.
+- **🔍 Claim Contradiction Detection over Knowledge Graphs:** NLP pipeline using Neo4j, DeBERTa (fine-tuned NLI), and GraphRAG to detect contradictions in structured knowledge.
+- **⚠️ Real-Time Log Anomaly Detection (MLOps):** AWS-native pipeline with Kinesis, Lambda, S3, Isolation Forest, LOF, CloudWatch, Prometheus/Grafana, and Streamlit.
+- **🤖 DPO Fine-tuning:** Qwen2.5-1.5B fine-tuned with QLoRA using Groq as an LLM judge on Kaggle.
 
-  ### Design Tools  
-  Adobe Illustrator, Adobe Photoshop
-</details>
+### 💼 Industry Experience
+
+- **SkyElectric (Data Engineer):** Built and maintained data pipelines for IoT energy management systems.
+- **Motive (Data Analyst – AI):** Delivered AI-driven analytics across fleet management and operations.
+
+### 🚀 Side Projects
+
+- **📡 Podcast Clip Generator:** Automated pipeline on Kaggle using yt-dlp, Whisper, Groq/Llama, YOLOv8 speaker detection, and ffmpeg.
+- **🔗 B2B Lead Gen Pipeline:** Apify + Hunter.io + Claude API + n8n + Gmail targeting Bangkok businesses.
+- **🕷️ DS/AI Freelance Lead Scraper:** Reddit scraper surfacing Data Science and AI freelance opportunities.
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Blog](https://img.shields.io/badge/Technomanical-000000?style=flat-square&logo=hashnode&logoColor=white)](https://YOUR_BLOG_URL)
