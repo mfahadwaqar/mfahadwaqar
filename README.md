@@ -6,17 +6,14 @@ I build systems that turn messy data into usable intelligence, from reliable pip
 
 [Portfolio](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [Email](mailto:mfahadwaqar@gmail.com)
 
-### `~` whoami
+## About
 
 I am an MS Data Science & AI student at the Asian Institute of Technology in Bangkok, with a BS in Electrical Engineering from FAST-NUCES. My work spans data engineering at SkyElectric, AI analytics at Motive, and GraphRAG and Neo4j pipelines during a NECTEC internship.
 
-### `~` now
+## Current focus
 
-```text
-focus     Knowledge graphs · Retrieval · Evaluated AI systems
-building  Reproducible ML workflows and time-series forecasting
-location  Bangkok, Thailand
-```
+- Knowledge graphs, retrieval, and evaluated AI systems.
+- Reproducible ML workflows and time-series forecasting.
 
 ## Selected work
 
