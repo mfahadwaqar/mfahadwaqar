@@ -1,46 +1,39 @@
-# Hi there! 👋
+# Muhammad Fahad Waqar
 
-### 🎓 MS Data Science & AI @ AIT Bangkok | Data Engineer | AI Builder
+**Data engineer · Applied AI builder · MS Data Science & AI at AIT**
 
-I build systems at the intersection of **knowledge graphs**, **LLMs**, and **real-world data pipelines**. Previously Data Engineer @ SkyElectric and Data Analyst (AI) @ Motive. Currently interning at **NECTEC** on GraphRAG and Neo4j pipelines.
+I build systems that turn messy data into usable intelligence, from reliable pipelines and model evaluation to knowledge graphs and agent-assisted ML.
 
----
+[Portfolio](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [Email](mailto:mfahadwaqar@gmail.com)
 
-## 🛠️ Skills
+### `~` whoami
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) |
-| **LLM & RAG** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
-| **Databases** | ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data Eng** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+I am an MS Data Science & AI student at the Asian Institute of Technology in Bangkok, with a BS in Electrical Engineering from FAST-NUCES. My work spans data engineering at SkyElectric, AI analytics at Motive, and GraphRAG and Neo4j pipelines during a NECTEC internship.
 
----
+### `~` now
 
-## 💼 Project Portfolio
+```text
+focus     Knowledge graphs · Retrieval · Evaluated AI systems
+building  Reproducible ML workflows and time-series forecasting
+location  Bangkok, Thailand
+```
 
-### 🎓 Graduate Projects (AIT)
+## Selected work
 
-- **🔍 Claim Contradiction Detection over Knowledge Graphs:** NLP pipeline using Neo4j, DeBERTa (fine-tuned NLI), and GraphRAG to detect contradictions in structured knowledge.
-- **⚠️ Real-Time Log Anomaly Detection (MLOps):** AWS-native pipeline with Kinesis, Lambda, S3, Isolation Forest, LOF, CloudWatch, Prometheus/Grafana, and Streamlit.
-- **🤖 DPO Fine-tuning:** Qwen2.5-1.5B fine-tuned with QLoRA using Groq as an LLM judge on Kaggle.
+- **[Agent-assisted ML and forecasting](https://github.com/mfahadwaqar/Multi-Agent-Optimization-CrewAI-NECTEC)** — A reproducible classification and time-series pipeline with leakage-aware validation, a FastAPI interface, and optional CrewAI analysis of measured results.
+- **[Claim contradiction detection over knowledge graphs](https://github.com/mfahadwaqar/Claim-Contradiction-Over-Knowledge-Graphs)** — A collaborative AIT course project combining Neo4j, structural and vector retrieval, fine-tuned NLI, and LLM judging to find contradictions within long documents.
+- **[Personal website](https://mfahadwaqar.github.io/)** — More projects, experience, and background in one place.
 
-### 💼 Industry Experience
+## Experience
 
-- **SkyElectric (Data Engineer):** Built and maintained data pipelines for IoT energy management systems.
-- **Motive (Data Analyst – AI):** Delivered AI-driven analytics across fleet management and operations.
+- **SkyElectric · Data Engineer** — Built ETL workflows and analytics infrastructure for energy data.
+- **Motive · Data Analyst, AI** — Analyzed model performance and supported data-driven product decisions.
+- **NECTEC · Internship** — Worked on GraphRAG and Neo4j data pipelines.
 
-### 🚀 Side Projects
+## Toolbox
 
+`Python` · `SQL` · `Neo4j` · `PostgreSQL` · `PyTorch` · `scikit-learn` · `FastAPI` · `Docker` · `AWS`
 
+## Connect
 
----
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Blog](https://img.shields.io/badge/Technomanical-000000?style=flat-square&logo=hashnode&logoColor=white)](https://YOUR_BLOG_URL)
+[mfahadwaqar.github.io](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [mfahadwaqar@gmail.com](mailto:mfahadwaqar@gmail.com)
