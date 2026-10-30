@@ -1,36 +1,28 @@
-# Muhammad Fahad Waqar
+# Data Engineer · Applied AI Builder
 
-**Data engineer · Applied AI builder · MS Data Science & AI at AIT**
+*MS Data Science & AI student at the Asian Institute of Technology · Bangkok, Thailand*
 
-I build systems that turn messy data into usable intelligence, from reliable pipelines and model evaluation to knowledge graphs and agent-assisted ML.
+I build reliable data pipelines and practical ML systems—from ETL and leakage-aware evaluation to knowledge-graph retrieval and applied AI.
 
 [Portfolio](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [Email](mailto:mfahadwaqar@gmail.com)
 
-## About
+## Featured projects
 
-I am an MS Data Science & AI student at the Asian Institute of Technology in Bangkok, with a BS in Electrical Engineering from FAST-NUCES. My work spans data engineering at SkyElectric, AI analytics at Motive, and GraphRAG and Neo4j pipelines during a NECTEC internship.
-
-## Current focus
-
-- Knowledge graphs, retrieval, and evaluated AI systems.
-- Reproducible ML workflows and time-series forecasting.
-
-## Selected work
-
-- **[Agent-assisted ML and forecasting](https://github.com/mfahadwaqar/Multi-Agent-Optimization-CrewAI-NECTEC)** — A reproducible classification and time-series pipeline with leakage-aware validation, a FastAPI interface, and optional CrewAI analysis of measured results.
-- **[Claim contradiction detection over knowledge graphs](https://github.com/mfahadwaqar/Claim-Contradiction-Over-Knowledge-Graphs)** — A collaborative AIT course project combining Neo4j, structural and vector retrieval, fine-tuned NLI, and LLM judging to find contradictions within long documents.
-- **[Personal website](https://mfahadwaqar.github.io/)** — More projects, experience, and background in one place.
+- **[Driver Distraction & Drowsiness Detection](https://github.com/mfahadwaqar/DLCV-Driver-Distraction-Detection)** — An AIT computer-vision project. The initial real-data RT-BENE eye-state baseline is complete; the broader driver-distraction and drowsiness system is still in progress.
+- **[Reproducible ML & Forecasting](https://github.com/mfahadwaqar/Multi-Agent-Optimization-CrewAI-NECTEC)** — Classification and time-series forecasting with leakage-aware validation, optional CrewAI analysis, local REST API/MCP workflows, and distributed forecasting runs on LANTA.
+- **[Claim Contradiction Detection](https://github.com/mfahadwaqar/Claim-Contradiction-Over-Knowledge-Graphs)** — A collaborative AIT course project using Neo4j, structural and vector retrieval, a fine-tuned NLI filter, and an LLM judge to surface self-contradictions in long documents. Benchmark limits are documented in the repository.
+- **[Portfolio](https://mfahadwaqar.github.io/)** — More about my experience, background, and selected work.
 
 ## Experience
 
 - **SkyElectric · Data Engineer** — Built ETL workflows and analytics infrastructure for energy data.
 - **Motive · Data Analyst, AI** — Analyzed model performance and supported data-driven product decisions.
-- **NECTEC · Internship** — Worked on GraphRAG and Neo4j data pipelines.
+- **NECTEC · Intern** — Worked on GraphRAG and Neo4j data pipelines.
 
 ## Toolbox
 
-`Python` · `SQL` · `Neo4j` · `PostgreSQL` · `PyTorch` · `scikit-learn` · `FastAPI` · `Docker` · `AWS`
+Python · SQL · PostgreSQL · AWS · Neo4j · PyTorch · scikit-learn · FastAPI · Docker
 
 ## Connect
 
-[mfahadwaqar.github.io](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [mfahadwaqar@gmail.com](mailto:mfahadwaqar@gmail.com)
+[Portfolio](https://mfahadwaqar.github.io/) · [LinkedIn](https://www.linkedin.com/in/mfahadwaqar) · [Email](mailto:mfahadwaqar@gmail.com)
